@@ -19,7 +19,12 @@ MySQL, MySQL Workbench
 - Attendance percentage analysis  
 - Pass/Fail and grading system  
 - Risk students identification  
-- Combined performance and attendance reports  
+- Combined performance and attendance reports
+  
+## Project Screenshots
+
+Screenshots of database tables and analysis outputs are available in the "screenshots" folder.
+
 
 ## Concepts Used
 JOIN, GROUP BY, HAVING, CASE, subqueries, aggregate functions
